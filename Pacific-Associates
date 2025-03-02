@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pacific Hybroid Associates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: #f4f4f4;
+        }
+        header {
+            background: url('images/hero.jpg') no-repeat center center/cover;
+            color: blueviolet;
+            text-align: center;
+            padding: 60px 20px;
+        }
+        nav {
+            background: #ff6600;
+            padding: 15px;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            margin: 0 15px;
+            font-weight: bold;
+        }
+        .container {
+            width: 90%;
+            max-width: 1000px;
+            margin: 40px auto;
+            background: white;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            background: #333;
+            color: white;
+            text-align: center;
+            padding: 15px;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Welcome to Pacific Hybroid Associates</h1>
+    <p>Invest in a Sustainable Palm Plantation for the Future</p>
+</header>
+
+<nav>
+    <a href="index.html">Home</a>
+    <a href="about.html">About Us</a>
+    <a href="plantation.html">Plantation Plan</a>
+    <a href="investment.html">Investment</a>
+    <a href="faq.html">FAQ</a>
+    <a href="contact.html">Contact</a>
+</nav>
+
+<div class="container">
+    <h2>Our Vision</h2>
+    <p>Pacific Hybroid Associates aims to establish a high-yield palm plantation, allocating plots for future sales and sustainable growth.</p>
+</div>
+
+<div class="container">
+    <h2>About Us</h2>
+    <p>We are dedicated to developing a sustainable palm plantation that benefits both investors and the environment. Our team consists of experts in agriculture, business, and sustainability.</p>
+</div>
+
+<div class="container">
+    <h2>Palm Plantation Plan</h2>
+    <p>Our plantation project involves acquiring fertile land, planting high-yield palm trees, and ensuring optimal growth conditions for long-term profitability.</p>
+</div>
+
+<div class="container">
+    <h2>Investment Opportunities</h2>
+    <p>Investors can purchase allocated plots within the plantation, benefiting from long-term returns as the palm trees mature and produce palm oil.</p>
+</div>
+
+<div class="container">
+    <h2>Frequently Asked Questions</h2>
+    <p><strong>Q: How do I invest in the plantation?</strong><br>A: You can invest by purchasing a portion of the allocated farmland. Contact us for more details.</p>
+    <p><strong>Q: What is the expected return on investment?</strong><br>A: The ROI depends on market conditions, but we estimate substantial returns as the palm trees mature.</p>
+</div>
+
+<div class="container">
+    <h2>Contact Us</h2>
+    <p>Email: pacifichybroidassociates@gmail.com</p>
+    <p>Phone: +447751583514; +2348067755158</p>
+    <p>Address: Pacific Farms, Pampo, Ilorin, Nigeria</p>
+</div>
+
+<footer>
+    <p>&copy; 2025 Pacific Hybroid Associates. All Rights Reserved.</p>
+</footer>
+
+</body>
+</html>
+
